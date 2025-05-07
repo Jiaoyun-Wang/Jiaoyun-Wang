@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi there, I'm Jiaoyun Wang!
 
-<!--
-**Jiaoyun-Wang/Jiaoyun-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** with 5+ years of experience building responsive, user-friendly websites and mobile applications.
 
-Here are some ideas to get you started:
+### 🧩 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   Vue 2 / Vue 3 / Uni-App / WeChat Mini Programs
+*   HTML, CSS (SCSS), JavaScript (ES6+)
+*   Responsive UI design & cross-device compatibility
+*   Component libraries: Element UI, Vant, uView
+*   Git, REST APIs, performance optimization
+
+### 💼 I'm Open To
+
+*   Remote freelance front-end jobs
+*   Short-term UI fixes and improvements
+*   Mini-program development projects
+*   WordPress front-end customization (learning in progress)
+
+### 🌱 Currently Learning
+
+*   React & Next.js
+*   WordPress (Elementor, Divi)
+
+### 📬 Let's Connect!
+
+*   📮 Email: <wwwwyitu@163.com>
+*   🌐 [Upwork Profile](https://www.upwork.com/freelancers/\~016b3ba1e89707c8c9)
+
+***
+
+*Thanks for visiting! I’m always excited to build clean and efficient UIs.* 🎯
+
+
