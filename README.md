@@ -1,33 +1,46 @@
-# Hi, I'm Jiaoyun Wang 👋
+# About Jiaoyun Wang
 
-I am an **AI Product Manager with a front-end development background**. I am now looking for AI Product Manager roles.
+## 🌟AI Product Manager | Front-End Engineer🌟 
 
-I have 6 years of front-end development experience. In recent years, my work has been about **60% AI product management and 40% front-end development**. This mix helps me understand user needs, plan products, and work closely with developers to turn ideas into real products.
+I am an AI Product Manager with 6 years of front-end development experience.
 
-### AI Product Experience
+In recent years, my work has been about 60% AI product management and 40% front-end development. I connect user needs, product plans, and technical delivery. My development background also helps me work closely with engineers and make practical product decisions.
+
+### 🚀 Product Focus
+
+#### ➤Conversational AI
 
 - AI customer service systems
-- AI bots and chat products
+- AI Bots and chat products
+- Conversation flows and product rules
+
+#### ➤AI Knowledge and Model Work
+
 - Knowledge base products
-- SFT data and workflow design
+- SFT data and workflows
 - Prompt Engineering (PE)
+- AI output testing and improvement
+
+#### ➤Finance and Data Products
+
 - AI tools for research reports
 - Data analysis products
 - AI products for quantitative funds
 
-### AI Product Skills
+### 🛠️Product Management Skills
 
-- Understand user needs and find product problems
-- Plan product features and user flows
-- Write clear product requirements
-- Design prompts and AI workflows
-- Plan knowledge base content and structure
-- Work with SFT data and review results
-- Build prototypes and test product ideas
-- Work with design, development, and business teams
-- Collect feedback and improve products
+- User needs and problem analysis
+- Product planning and feature design
+- User flows and product prototypes
+- Product requirement documents
+- Prompt and AI workflow design
+- Knowledge base structure and content planning
+- SFT data planning and result review
+- AI output quality testing
+- Cross-team work with design, engineering, and business teams
+- User feedback and product improvement
 
-### Technical Skills
+### 🛠️Technical Skills
 
 - Vue 2, Vue 3, Uni-App, and WeChat Mini Programs
 - HTML, CSS / SCSS, and JavaScript
@@ -35,49 +48,54 @@ I have 6 years of front-end development experience. In recent years, my work has
 - Element UI, Vant, and uView
 - Git, REST APIs, and web performance
 
-### Looking For
-
-- AI Product Manager roles
-- AI customer service, AI bot, and knowledge base products
-- AI products for research, data analysis, and quantitative funds
-- Remote or project-based AI product work
-
 ### Contact
 
-- Email: [wwwwyitu@163.com](mailto:wwwwyitu@163.com)
+- 📩Email: [wwwwyitu@163.com](mailto:wwwwyitu@163.com)
 - [Upwork Profile](https://www.upwork.com/freelancers/~016b3ba1e89707c8c9)
 
 ---
 
+## AI 产品经理 | 前端工程师
 
-我是一名**拥有前端开发背景的 AI 产品经理**，目前正在寻找 AI 产品经理相关工作。
+我是一名拥有 6 年前端开发经验的 AI 产品经理。
 
-我有 6 年前端开发经验。最近几年，我的工作内容约为 **60% AI 产品管理和 40% 前端开发**。这段复合经历让我既能理解用户和业务需求，也能与开发团队高效沟通，推动产品从想法走向落地。
+最近几年，我的工作内容约为 60% AI 产品管理和 40% 前端开发。我能够连接用户需求、产品方案与技术落地。前端开发背景也让我可以更高效地与工程师协作，并在产品设计中做出更实际的判断。
 
-### AI 产品经验
+### 🚀 产品方向
+
+#### 对话式 AI
 
 - AI 智能客服系统
 - AI Bot 和对话类产品
+- 对话流程与产品规则设计
+
+#### AI 知识与模型应用
+
 - 知识库产品
-- SFT 数据与流程设计
+- SFT 数据与流程
 - Prompt Engineering（提示词工程）
+- AI 输出测试与优化
+
+#### 金融与数据产品
+
 - AI 研报工具
 - 数据分析产品
 - 量化基金相关 AI 产品
 
-### AI 产品能力
+### 🛠️产品管理能力
 
-- 分析用户需求，发现产品问题
-- 规划产品功能和用户流程
-- 编写清晰的产品需求文档
-- 设计提示词和 AI 工作流程
-- 规划知识库内容与结构
-- 参与 SFT 数据设计和效果评估
-- 制作产品原型，验证产品想法
+- 用户需求与问题分析
+- 产品规划与功能设计
+- 用户流程与产品原型设计
+- 产品需求文档编写
+- 提示词与 AI 工作流程设计
+- 知识库结构与内容规划
+- SFT 数据规划与结果评估
+- AI 输出质量测试
 - 协调设计、开发和业务团队
-- 收集用户反馈，持续优化产品
+- 收集用户反馈并持续优化产品
 
-### 技术能力
+### 🛠️技术能力
 
 - Vue 2、Vue 3、Uni-App、微信小程序
 - HTML、CSS / SCSS、JavaScript
@@ -85,14 +103,7 @@ I have 6 years of front-end development experience. In recent years, my work has
 - Element UI、Vant、uView
 - Git、REST API、网页性能优化
 
-### 求职方向
-
-- AI 产品经理
-- AI 智能客服、AI Bot 和知识库产品
-- AI 研报、数据分析和量化基金相关产品
-- 远程或项目制 AI 产品工作
-
 ### 联系方式
 
-- 邮箱：[wwwwyitu@163.com](mailto:wwwwyitu@163.com)
+- 📩邮箱：[wwwwyitu@163.com](mailto:wwwwyitu@163.com)
 - [Upwork 主页](https://www.upwork.com/freelancers/~016b3ba1e89707c8c9)
