@@ -51,7 +51,6 @@ In recent years, my work has been about 60% AI product management and 40% front-
 ### Contact
 
 - 📩Email: [wwwwyitu@163.com](mailto:wwwwyitu@163.com)
-- [Upwork Profile](https://www.upwork.com/freelancers/~016b3ba1e89707c8c9)
 
 ---
 
@@ -106,4 +105,3 @@ In recent years, my work has been about 60% AI product management and 40% front-
 ### 联系方式
 
 - 📩邮箱：[wwwwyitu@163.com](mailto:wwwwyitu@163.com)
-- [Upwork 主页](https://www.upwork.com/freelancers/~016b3ba1e89707c8c9)
