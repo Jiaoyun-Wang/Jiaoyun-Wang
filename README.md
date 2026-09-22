@@ -1,6 +1,6 @@
 # About Jiaoyun Wang
 
-## 🌟🌟 AI Product Manager | Front-End Engineer🌟 
+## 🌟 AI Product Manager | Front-End Engineer🌟 
 
 I am an AI Product Manager with 6 years of front-end development experience.
 
